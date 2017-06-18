@@ -1,5 +1,5 @@
 [{
-    "wineId":"1001",
+    "wineId":"1",
     "wname": "Bouvet Zero Extra Brut 2012",
     "category": "Red Wine",
     "description": "This is Bouvets zero dosage or unsweetened wine. We tried it at the cellars a couple of years ago for the first time.",
@@ -8,7 +8,7 @@
     "onsale": "yes",
     "imageUrl": "bouvet_zero.jpg"
 },{
-    "wineId":"1002",
+    "wineId":"2",
     "wname": "Champagne Ernest Rapeneau Brut NV",
     "category": "White Wine",
     "description": "This Gold Medal-winning Champagne is an absolute beauty and unbelievable value at under $30.",
@@ -17,7 +17,7 @@
     "onsale": "no",
     "imageUrl": "ernest_champagne_brut.jpg"
 },{
-    "wineId":"1003",
+    "wineId":"3",
     "wname": "Bouvet Saphir Saumur Brut Vintage 2014",
     "category": "Rose Wine",
     "description": "fdfdff",
@@ -26,7 +26,7 @@
     "onsale": "yes",
     "imageUrl": "bouvet_saphir.jpg"
 },{
-    "wineId":"1000",
+    "wineId":"4",
     "wname": "The Oregon Trail",
     "category": "All Sparkling",
     "description": "Rosé is often an afterthought in sparkling wine production, this is not the case at Bouvet.",
