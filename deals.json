@@ -33,23 +33,5 @@
     "price": "59",
     "popularity": "high",
     "onsale": "no",
-    "imageUrl": "bouvet_rose_1.jpg
-},{
-    "wineId":"1000",
-    "wname": "The Oregon Trail",
-    "category": "adventure",
-    "description": "",
-    "price": "39",
-    "popularity": "high",
-    "onsale": "high",
-    "imageUrl": "https://www.bookbrowse.com/images/jackets-p/1451659172.jpg"
-},{
-    "wineId":"1000",
-    "wname": "The Oregon Trail",
-    "category": "adventure",
-    "description": "Rinker Buck",
-    "price": "82",
-    "popularity": "high",
-    "onsale": "high",
-    "imageUrl": "https://www.bookbrowse.com/images/jackets-p/1451659172.jpg"
+    "imageUrl": "bouvet_rose_1.jpg"
 }]
