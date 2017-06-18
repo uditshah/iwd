@@ -41,7 +41,7 @@
     "description": "South Walton Food and Wine Festival Just looking at this wine makes you thirsty.",
     "price": "19",
     "popularity": "high",
-    "onsale": "no",
+    "onsale": "yes",
     "imageUrl": "charles_fere_rose_2.jpg"
 },{
     "wineId":"6",
@@ -50,6 +50,6 @@
     "description": "Impressively ripe and opulent, the beautifully lifted bouquet shows blackberry",
     "price": "21",
     "popularity": "high",
-    "onsale": "no",
+    "onsale": "yes",
     "imageUrl": "ch._de_pena_cdrv_14_.jpg"
 }]
