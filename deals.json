@@ -34,4 +34,22 @@
     "popularity": "high",
     "onsale": "no",
     "imageUrl": "bouvet_rose_1.jpg"
+},{
+    "wineId":"5",
+    "wname": "Charles de Fère Rosé Brut NV",
+    "category": "Rose Wine",
+    "description": "South Walton Food and Wine Festival Just looking at this wine makes you thirsty.",
+    "price": "19",
+    "popularity": "high",
+    "onsale": "no",
+    "imageUrl": "charles_fere_rose_2.jpg"
+},{
+    "wineId":"6",
+    "wname": "Ch de Pena Cotes du Roussillon Villages 2014",
+    "category": "Rose Wine",
+    "description": "Impressively ripe and opulent, the beautifully lifted bouquet shows blackberry",
+    "price": "21",
+    "popularity": "high",
+    "onsale": "no",
+    "imageUrl": "ch._de_pena_cdrv_14_.jpg"
 }]
