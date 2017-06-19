@@ -52,4 +52,46 @@
     "popularity": "high",
     "onsale": "yes",
     "imageUrl": "ch._de_pena_cdrv_14_.jpg"
-}]
+}
+,{
+    "wineId":"7",
+    "wname": "Grand Veneur Côtes du Rhône Réserve 2015",
+    "category": "Rose Wine",
+    "description": "Yet another winner from the passionate and hardworking Jaume family. Supple, gluggable and full of southern French warmth and character.",
+    "price": "45",
+    "popularity": "high",
+    "onsale": "yes",
+    "imageUrl": "grand_veneur_champ.jpg"
+}
+ ,{
+    "wineId":"8",
+    "wname": "Grand Veneur Côtes du",
+    "category": "Red Wine",
+    "description": "Rated among the Worlds Greatest Wine Estates ",
+    "price": "85",
+    "popularity": "high",
+    "onsale": "yes",
+    "imageUrl": "mordoree_cndp.jpg"
+}
+ ,{
+    "wineId":"9",
+    "wname": "Michel Gassier",
+    "category": "White Wine",
+    "description": "Impressively ripe and opulent, the beautifully lifted bouquet shows blackberry",
+    "price": "99",
+    "popularity": "high",
+    "onsale": "yes",
+    "imageUrl": "cercius-red.jpg"
+}
+ ,{
+    "wineId":"10",
+    "wname": "Les Vignerons Carignon 2015",
+    "category": "All Sparkling",
+    "description": "Brightly fruited and very easy on the palate, the wine shows youthful fruit flavours of dark cherries and plums. ",
+    "price": "21",
+    "popularity": "high",
+    "onsale": "yes",
+    "imageUrl": "les_vignerons_carignan_syrah_15_.jpg"
+}
+
+]
