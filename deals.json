@@ -14,7 +14,7 @@
     "description": "This Gold Medal-winning Champagne is an absolute beauty and unbelievable value at under $30.",
     "price": "29",
     "popularity": "high",
-    "onsale": "no",
+    "onsale": "yes",
     "imageUrl": "ernest_champagne_brut.jpg"
 },{
     "wineId":"3",
