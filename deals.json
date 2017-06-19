@@ -13,7 +13,7 @@
     "category": "White Wine",
     "description": "This Gold Medal-winning Champagne is an absolute beauty and unbelievable value at under $30.",
     "price": "29",
-    "popularity": "low",
+    "popularity": "high",
     "onsale": "no",
     "imageUrl": "ernest_champagne_brut.jpg"
 },{
@@ -50,7 +50,7 @@
     "description": "Impressively ripe and opulent, the beautifully lifted bouquet shows blackberry",
     "price": "21",
     "popularity": "high",
-    "onsale": "yes",
+    "onsale": "no",
     "imageUrl": "ch._de_pena_cdrv_14_.jpg"
 }
 ,{
@@ -60,7 +60,7 @@
     "description": "Yet another winner from the passionate and hardworking Jaume family. Supple, gluggable and full of southern French warmth and character.",
     "price": "45",
     "popularity": "normal",
-    "onsale": "yes",
+    "onsale": "no",
     "imageUrl": "grand_veneur_champ.jpg"
 }
  ,{
@@ -70,7 +70,7 @@
     "description": "Rated among the Worlds Greatest Wine Estates ",
     "price": "85",
     "popularity": "high",
-    "onsale": "yes",
+    "onsale": "no",
     "imageUrl": "mordoree_cndp.jpg"
 }
  ,{
@@ -90,7 +90,7 @@
     "description": "Brightly fruited and very easy on the palate, the wine shows youthful fruit flavours of dark cherries and plums. ",
     "price": "21",
     "popularity": "high",
-    "onsale": "yes",
+    "onsale": "no",
     "imageUrl": "les_vignerons_carignan_syrah_15_.jpg"
 }
 
