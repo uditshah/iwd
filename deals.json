@@ -4,7 +4,7 @@
     "category": "Red Wine",
     "description": "This is Bouvets zero dosage or unsweetened wine. We tried it at the cellars a couple of years ago for the first time.",
     "price": "37",
-    "popularity": "high",
+    "popularity": "normal",
     "onsale": "yes",
     "imageUrl": "bouvet_zero.jpg"
 },{
@@ -31,7 +31,7 @@
     "category": "All Sparkling",
     "description": "Rosé is often an afterthought in sparkling wine production, this is not the case at Bouvet.",
     "price": "59",
-    "popularity": "high",
+    "popularity": "normal",
     "onsale": "no",
     "imageUrl": "bouvet_rose_1.jpg"
 },{
@@ -40,7 +40,7 @@
     "category": "Rose Wine",
     "description": "South Walton Food and Wine Festival Just looking at this wine makes you thirsty.",
     "price": "19",
-    "popularity": "high",
+    "popularity": "normal",
     "onsale": "yes",
     "imageUrl": "charles_fere_rose_2.jpg"
 },{
@@ -59,7 +59,7 @@
     "category": "Rose Wine",
     "description": "Yet another winner from the passionate and hardworking Jaume family. Supple, gluggable and full of southern French warmth and character.",
     "price": "45",
-    "popularity": "high",
+    "popularity": "normal",
     "onsale": "yes",
     "imageUrl": "grand_veneur_champ.jpg"
 }
